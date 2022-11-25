@@ -1,0 +1,13 @@
+Document;
+ 
+A document is a written, drawn, presented,  fictional, content. Stored easily to transfer
+
+Windows;
+
+window object represents a window/tab containing document 
+You can access a document object either using windows.
+
+screen;
+
+screen is front end opreation .attrative the users.then using language HTML,CSS
+
